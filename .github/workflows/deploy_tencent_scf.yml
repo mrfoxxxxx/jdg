@@ -97,7 +97,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: "安装依赖"
+      - name: "安装的依赖"
         run: |
           npm install
           npm install got
