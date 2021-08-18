@@ -5,7 +5,7 @@
 * > [elecV2P](https://github.com/elecV2/elecV2P) 部署【备用】。
     * 安装教程：[点此查看](https://github.com/elecV2/elecV2P-dei/blob/master/docs/01-overview.md)  
     * 相关补充说明：[点此查看](./backUp/elecV2P.md)  
-。
+。。。
 
 
 ## 自动同步脚本教程：[点此查看](https://github.com/zero205/JD_tencent_scf/blob/main/backUp/reposync.md)  </br>
